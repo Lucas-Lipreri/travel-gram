@@ -18,3 +18,9 @@
     --text-color-primary: #313131;
     --text-color-secundary: #6c6c6c;
 }
+
+body{
+    color: var(--text-color-secundary);
+    background-color: var(--background-color);
+}
+
