@@ -1,7 +1,7 @@
 header {
     padding-block: 32px;
 
-        font: var(--text-md);
+    font: var(--text-md);
 }
 
 .header .container {
@@ -16,12 +16,12 @@ header {
 
 }
 
-#profile > div {
+#profile>div {
     max-width: 384px;
 }
 
-#profile img {
-    width: 176px;
+#profile .img {
+    height: 176px;
     width: 176px;
     object-fit: cover;
     border-radius: 50%;
